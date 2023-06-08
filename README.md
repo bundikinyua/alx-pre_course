@@ -1,2 +1,1 @@
-my first readme file
-updated readme
+i love programming
